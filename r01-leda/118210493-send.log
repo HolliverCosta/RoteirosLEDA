@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T14:52:44.575-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.14 at 21-09-2020 14*52*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-23T15:54:04.453-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.9 at 23-09-2020 15*54*04</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-28T01:09:13.328-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.9 at 28-09-2020 01*09*13</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-28T01:17:24.463-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.9 at 28-09-2020 01*17*24</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-28T01:38:56.375-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.9 at 28-09-2020 01*38*56</message>
+</record>
