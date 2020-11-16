@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-09T09:00:36.068-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.11 at 09-11-2020 09*00*36</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-14T20:07:42.248-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.13 at 14-11-2020 20*07*42</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-15T23:18:29.622-0300</date>
+  <logger>HOLLIVER DE OLIVEIRA COSTA</logger>
+  <level>FINE</level>
+  <message>File 118210493-HOLLIVER DE OLIVEIRA COSTA.zip was received. It was sent by HOLLIVER DE OLIVEIRA COSTA from IP 192.168.1.17 at 15-11-2020 23*18*29</message>
+</record>
